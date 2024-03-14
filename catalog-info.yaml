@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: store-fe-react-test
+  annotations:
+    github.com/project-slug: rhdh-org/store-fe-react-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:default/chantallengua
